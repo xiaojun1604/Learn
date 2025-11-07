@@ -15,3 +15,9 @@
 | ------ | ---------------------------------------------------- |
 | 查看内存   | https://github.com/pschraut/UnityHeapExplorer        |
 | 静态资源分析 | https://github.com/Unity-Technologies/ProjectAuditor |
+
+Unity MCP
+
+| 介绍        | URL                                    |
+| --------- | -------------------------------------- |
+| UNITY MCP | https://github.com/CoplayDev/unity-mcp |
