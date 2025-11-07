@@ -21,3 +21,10 @@ Unity MCP
 | 介绍        | URL                                    |
 | --------- | -------------------------------------- |
 | UNITY MCP | https://github.com/CoplayDev/unity-mcp |
+|           |                                        |
+
+AI使用总结
+
+| 介绍  | URL                                      |
+| --- | ---------------------------------------- |
+| 1   | https://onevcat.com/2025/08/claude-code/ |
