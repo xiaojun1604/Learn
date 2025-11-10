@@ -16,15 +16,23 @@
 | 查看内存   | https://github.com/pschraut/UnityHeapExplorer        |
 | 静态资源分析 | https://github.com/Unity-Technologies/ProjectAuditor |
 
-Unity MCP
+### Unity MCP
 
 | 介绍        | URL                                    |
 | --------- | -------------------------------------- |
 | UNITY MCP | https://github.com/CoplayDev/unity-mcp |
 |           |                                        |
 
-AI使用总结
+### AI使用总结
 
 | 介绍  | URL                                      |
 | --- | ---------------------------------------- |
 | 1   | https://onevcat.com/2025/08/claude-code/ |
+
+
+
+### matcaps
+
+| 介绍  | URL                                                                                                                  |
+| --- | -------------------------------------------------------------------------------------------------------------------- |
+|     | [GitHub - nidorx/matcaps: Huge library of matcap PNG textures organized by color](https://github.com/nidorx/matcaps) |
